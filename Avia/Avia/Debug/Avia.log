@@ -1,0 +1,5 @@
+﻿  Avia.cpp
+  AviaTicket.cpp
+D:\Study IT STEP academy\Avia\Avia\AviaTicket.cpp(7,6): warning C4101: 'value': unreferenced local variable
+  Generating Code...
+  Avia.vcxproj -> D:\Study IT STEP academy\Avia\Debug\Avia.exe
